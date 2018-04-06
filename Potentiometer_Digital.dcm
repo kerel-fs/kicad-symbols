@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD51x2
+D Dual Digital Potentiometer, SPI interface, 128/256 taps, 10/100 kohm
+K R POT
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD5122_5142.pdf
+$ENDCMP
+#
 $CMP AD5280
 D Digital potentiometer, 256 position, single output, I2C interface
 K digital potentiometer
