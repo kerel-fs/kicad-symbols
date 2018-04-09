@@ -288,6 +288,12 @@ K quad opamp
 F http://www.ti.com/lit/ds/symlink/lmc6484.pdf
 $ENDCMP
 #
+$CMP LMH6609MF
+D 900MHz Voltage Feedback Operational Amplifier
+K single opamp
+F http://www.ti.com/lit/gpn/lmh6609
+$ENDCMP
+#
 $CMP LMV321
 D Low-Voltage Rail-to-Rail Output Operational Amplifiers, SOT-23-5/SC-70-5
 K single opamp
