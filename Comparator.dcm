@@ -96,6 +96,12 @@ K single comparator
 F http://cds.linear.com/docs/en/datasheet/1116fc.pdf
 $ENDCMP
 #
+$CMP MAX9203EKA-T
+D Voltage Comparator, DIP-8/SOIC-8/SSOP-8
+K comp
+F http://www.ti.com/lit/ds/symlink/lm311.pdf
+$ENDCMP
+#
 $CMP MCP6562
 D Dual 1.8V Low-Power Push-Pull Output Comparator, SOIC-8/MSOP-8
 K dual comparator
