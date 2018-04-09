@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SA01D
+D 1W Isolated DC/DC Converter
+K isolated DC/DC Converter
+$ENDCMP
+#
 $CMP TEN20-2410WIN
 D 5.5A Isolated DC/DC Converter Module, fixed 3.3V Output Voltage, 9-36V Input Voltage
 K Traco isolated DC/DC Converter module
